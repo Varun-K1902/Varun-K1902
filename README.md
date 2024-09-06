@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a recent graduate in Computer Science and Engineering.<br><br>🌱 I'm currently learning Web Development using Django.
+🎓 I'm a recent graduate in Computer Science and Engineering.<br>🌱 I'm currently learning Web Development using Django.
 
 
 ## 🌐 Socials:
