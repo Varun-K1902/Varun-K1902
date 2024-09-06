@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Recent graduate in Computer Science and Engineering.<br><br>💻 My passion for tech led me to dive into hands-on projects, where I didn't just participate—I led! From developing advanced systems to tackling complex challenges, I've successfully managed many innovative projects and I've always been at the forefront of innovation. Plus, I love helping friends succeed, always ready to lend a hand and collaborate. 🌟<br><br>🔧 I am currently learning new technologies to enhance my skills. <br><br>Let's connect and explore how we can collaborate! Feel free to reach out to me.
+🎓 I am a recent graduate in Computer Science and Engineering.<br><br>🌱 I'm currently learning Web Development using Django.
 
 
 ## 🌐 Socials:
